@@ -8,6 +8,7 @@ A personal repositories index
 ### MVVM
 [Space X Launches](https://github.com/Dario-Gasquez/spacex-launches)
 
+[Data Binding Samples](https://github.com/Dario-Gasquez/mvvm-bindings-samples)
 
 ## Swift
 [Swift Coding Style](https://github.com/Dario-Gasquez/swift-coding-style)
