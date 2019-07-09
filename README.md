@@ -10,6 +10,9 @@ A personal repositories index
 
 [Data Binding Samples](https://github.com/Dario-Gasquez/mvvm-bindings-samples)
 
+### Coordinator
+[Coordinator Pattern Sample](https://github.com/Dario-Gasquez/CoordinatorPattern)
+
 ## Swift
 [Swift Coding Style](https://github.com/Dario-Gasquez/swift-coding-style)
 
