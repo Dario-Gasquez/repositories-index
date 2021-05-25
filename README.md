@@ -22,6 +22,11 @@ A personal repositories index
 ## iOS SDK
 [iOS Frameworks Diagram](https://github.com/Dario-Gasquez/iOS-frameworks-diagram)
 
+
+## Machine Learning (ML)
+[Footwear or Not](https://github.com/Dario-Gasquez/footwear-or-not)
+
+
 ## Learning
 [WWDC Sessions](https://gist.github.com/Dario-Gasquez/fee450afc497d23140e3f66616f3780d)
 
