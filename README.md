@@ -24,6 +24,7 @@ A personal repositories index
 
 
 ## Machine Learning (ML)
+[Chimango:AI](https://github.com/Dario-Gasquez/chimango-ai)
 [Footwear or Not](https://github.com/Dario-Gasquez/footwear-or-not)
 
 
