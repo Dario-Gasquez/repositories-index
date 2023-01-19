@@ -27,8 +27,13 @@ A personal repositories index
 [Chimango:AI](https://github.com/Dario-Gasquez/chimango-ai)<br>
 [Footwear or Not](https://github.com/Dario-Gasquez/footwear-or-not)
 
-## Networking
+## Libraries
+
+### Networking
 [Orbweaver](https://github.com/Dario-Gasquez/orbweaver)
+
+### Bluetooth
+[Bluelips](https://github.com/Dario-Gasquez/Bluelips)
 
 ## Learning
 [WWDC Sessions](https://gist.github.com/Dario-Gasquez/fee450afc497d23140e3f66616f3780d)
